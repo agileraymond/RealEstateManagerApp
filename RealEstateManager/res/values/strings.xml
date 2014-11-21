@@ -4,5 +4,6 @@
     <string name="app_name">Real Estate Manager</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="add_property">Add Property</string>    
 
 </resources>
